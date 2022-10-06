@@ -1,0 +1,34 @@
+P:\Dev\C#\APIYEY\DI Services\bin\Debug\net6.0\DI_Services.deps.json
+P:\Dev\C#\APIYEY\DI Services\bin\Debug\net6.0\DI_Services.dll
+P:\Dev\C#\APIYEY\DI Services\bin\Debug\net6.0\DI_Services.pdb
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.csproj.AssemblyReference.cache
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.AssemblyInfoInputs.cache
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.AssemblyInfo.cs
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.csproj.CoreCompileInputs.cache
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.dll
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\refint\DI_Services.dll
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.pdb
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\ref\DI_Services.dll
+P:\Dev\C#\APIYEY\DI Services\bin\Debug\net6.0\DI_Commun.dll
+P:\Dev\C#\APIYEY\DI Services\bin\Debug\net6.0\DI_Commun.pdb
+P:\Dev\C#\APIYEY\DI Services\obj\Debug\net6.0\DI_Services.csproj.CopyComplete
+P:\Dev\C#\APIYEY\DI Services\bin\Debug\net6.0\Buisness.dll
+P:\Dev\C#\APIYEY\DI Services\bin\Debug\net6.0\Buisness.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\bin\Debug\net6.0\DI_Services.deps.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\bin\Debug\net6.0\DI_Services.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\bin\Debug\net6.0\DI_Services.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\bin\Debug\net6.0\Buisness.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\bin\Debug\net6.0\DI_Commun.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\bin\Debug\net6.0\Buisness.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\bin\Debug\net6.0\DI_Commun.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.csproj.AssemblyReference.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.AssemblyInfoInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.AssemblyInfo.cs
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.csproj.CoreCompileInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.csproj.CopyComplete
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\refint\DI_Services.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\DI_Services.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI Services\obj\Debug\net6.0\ref\DI_Services.dll

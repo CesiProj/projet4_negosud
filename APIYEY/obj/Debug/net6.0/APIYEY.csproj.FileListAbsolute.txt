@@ -1,0 +1,144 @@
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\appsettings.Development.json
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\appsettings.json
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\APIYEY.exe
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\APIYEY.deps.json
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\APIYEY.runtimeconfig.json
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\APIYEY.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\APIYEY.pdb
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.OpenApi.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.csproj.AssemblyReference.cache
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.AssemblyInfoInputs.cache
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.AssemblyInfo.cs
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.csproj.CoreCompileInputs.cache
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.MvcApplicationPartsAssemblyInfo.cs
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.MvcApplicationPartsAssemblyInfo.cache
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\staticwebassets.build.json
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\staticwebassets.development.json
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\scopedcss\bundle\APIYEY.styles.css
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.csproj.CopyComplete
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.dll
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\refint\APIYEY.dll
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.pdb
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\APIYEY.genruntimeconfig.cache
+P:\Dev\C#\APIYEY\APIYEY\obj\Debug\net6.0\ref\APIYEY.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\.filenesting.json
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\DI_Commun.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\DI_Commun.pdb
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\DI_Services.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\DI_Services.pdb
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Buisness.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Buisness.pdb
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Newtonsoft.Json.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\System.Drawing.Common.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\System.Runtime.Caching.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\System.Security.Permissions.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\System.Windows.Extensions.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\DataAccess.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\DataAccess.pdb
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Humanizer.dll
+P:\Dev\C#\APIYEY\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\.filenesting.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\appsettings.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\APIYEY.exe
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\APIYEY.deps.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\APIYEY.runtimeconfig.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\APIYEY.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\APIYEY.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Buisness.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\DataAccess.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\DI_Commun.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\DI_Services.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\DI_Services.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\DI_Commun.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\bin\Debug\net6.0\Buisness.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.csproj.AssemblyReference.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.AssemblyInfoInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.AssemblyInfo.cs
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.csproj.CoreCompileInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\scopedcss\bundle\APIYEY.styles.css
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.csproj.CopyComplete
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\refint\APIYEY.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\APIYEY.genruntimeconfig.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\APIYEY\obj\Debug\net6.0\ref\APIYEY.dll

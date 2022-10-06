@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Buisness/1.0.0": {
+        "dependencies": {
+          "DI_Commun": "1.0.0"
+        },
+        "runtime": {
+          "Buisness.dll": {}
+        }
+      },
+      "DI_Commun/1.0.0": {
+        "runtime": {
+          "DI_Commun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buisness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DI_Commun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

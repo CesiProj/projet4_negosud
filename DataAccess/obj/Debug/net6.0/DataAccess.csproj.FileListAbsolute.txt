@@ -1,0 +1,34 @@
+P:\Dev\C#\APIYEY\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+P:\Dev\C#\APIYEY\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+P:\Dev\C#\APIYEY\DataAccess\bin\Debug\net6.0\DataAccess.dll
+P:\Dev\C#\APIYEY\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+P:\Dev\C#\APIYEY\DataAccess\bin\Debug\net6.0\DI_Commun.dll
+P:\Dev\C#\APIYEY\DataAccess\bin\Debug\net6.0\DI_Commun.pdb
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.dll
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+P:\Dev\C#\APIYEY\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\bin\Debug\net6.0\DI_Commun.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\bin\Debug\net6.0\DI_Commun.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

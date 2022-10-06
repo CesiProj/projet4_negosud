@@ -1,0 +1,24 @@
+P:\Dev\C#\APIYEY\DI_Commun\bin\Debug\net6.0\DI_Commun.deps.json
+P:\Dev\C#\APIYEY\DI_Commun\bin\Debug\net6.0\DI_Commun.dll
+P:\Dev\C#\APIYEY\DI_Commun\bin\Debug\net6.0\DI_Commun.pdb
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\DI_Commun.csproj.AssemblyReference.cache
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\DI_Commun.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\DI_Commun.AssemblyInfoInputs.cache
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\DI_Commun.AssemblyInfo.cs
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\DI_Commun.csproj.CoreCompileInputs.cache
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\DI_Commun.dll
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\refint\DI_Commun.dll
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\DI_Commun.pdb
+P:\Dev\C#\APIYEY\DI_Commun\obj\Debug\net6.0\ref\DI_Commun.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\bin\Debug\net6.0\DI_Commun.deps.json
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\bin\Debug\net6.0\DI_Commun.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\bin\Debug\net6.0\DI_Commun.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\DI_Commun.csproj.AssemblyReference.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\DI_Commun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\DI_Commun.AssemblyInfoInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\DI_Commun.AssemblyInfo.cs
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\DI_Commun.csproj.CoreCompileInputs.cache
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\DI_Commun.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\refint\DI_Commun.dll
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\DI_Commun.pdb
+C:\Users\lepie\OneDrive\Bureau\DEV\Projet 4 - NEGOSUD\DI_Commun\obj\Debug\net6.0\ref\DI_Commun.dll
